@@ -3,7 +3,7 @@ Deep learning paper study notes(mind mapping)，including R-CNN,Fast R-CNN and F
 ## R-CNN
 ![](R-CNN.png)
 ## Fast RCNN and Faster RCNN
-![](Fast RCNN and Faster RCNN.png)
+![](Fast-and-Faster-RCNN.png)
 ## GAN
 ![](GAN.png)
 ## GAN的特点
